@@ -165,10 +165,10 @@ public class GAMEUNLOCKER implements IXposedHookLoadPackage {
     // Asus
     // Props to Spoof as Asus Rog 6
     private static void propsToChangeROG6() {
-        setPropValue("BRAND", "samsung");
-        setPropValue("MANUFACTURER", "samsung");
-        setPropValue("DEVICE", "e3q");
-        setPropValue("MODEL", "SM-S928N");
+        setPropValue("BRAND", "honer");
+        setPropValue("MANUFACTURER", "honer");
+        setPropValue("DEVICE", "VER-N49");
+        setPropValue("MODEL", "VER-N49");
     }
 
     // Blackshark
