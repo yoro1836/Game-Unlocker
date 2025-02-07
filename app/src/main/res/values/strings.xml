@@ -51,5 +51,6 @@
 		<item>com.vng.pubgmobile</item>
 		<item>jp.konami.pesam</item>
 		<item>vng.games.revelation.mobile</item>
+		<item>com.termux</item>
 	</string-array>
 </resources>
