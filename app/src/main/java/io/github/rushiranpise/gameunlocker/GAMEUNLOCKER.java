@@ -170,13 +170,6 @@ public class GAMEUNLOCKER implements IXposedHookLoadPackage {
         setPropValue("MANUFACTURER", "honer");
         setPropValue("DEVICE", "VER-N49");
         setPropValue("MODEL", "VER-N49");
-        setPropValue("BOOTIMAGE.MODEL", "VER-N49");
-        setPropValue("ODM.MODEL", "VER-N49");
-        setPropValue("PRODUCT.MODEL", "VER-N49");
-        setPropValue("SYSTEM.MODEL", "VER-N49");
-        setPropValue("SYSTEM_EXT.MODEL", "VER-N49");
-        setPropValue("VENDOR.MODEL", "VER-N49");
-        setPropValue("VENDOR_DLKM.MODEL", "VER-N49");
     }
 
     // Blackshark
